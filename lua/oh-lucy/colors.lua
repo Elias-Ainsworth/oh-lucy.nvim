@@ -2,7 +2,6 @@ return {
   fg               = "#D7D7D7",
   bg               = "#1B1D26",
   none             = "#1B1D26",
-  --14161D
   dark             = '#14161D',
   comment          = "#5E6173",
   popup_back       = '#515761',
@@ -26,21 +25,20 @@ return {
 
   red_key_w  = "#FB7DA7",
   red_err    = "#D95555",
-  green_func = '#74C7A4',
-  green      = "#76C5A4",
-  blue_type  = '#8DBBD3',
+  green_func = "#985F64",     -- replaced
+  green      = "#8B5F4D",     -- replaced
+  blue_type  = "#8DBBD3",
   black1     = "#272932",
   black      = "#14161D",
   white1     = "#D7D7D7",
   white      = "#E9E9E9",
   gray_punc  = "#7C7E8C",
   gray2      = "#6E7380",
-  gray1      = '#343842',
+  gray1      = "#343842",
   gray       = "#21252D",
   orange     = "#E0828D",
   boolean    = "#AF98E6",
-  orange_wr  = "#E39A65",
+  orange_wr  = "#C98265",     -- replaced (optional)
   pink       = "#BDA9D4",
-  yellow     = "#E3CF65",
-
+  yellow     = "#C98265",     -- replaced
 }
